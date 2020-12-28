@@ -1,0 +1,78 @@
+
+body {
+    background-color: #2D6BA2;
+    font-family: sans-serif;
+    
+    
+
+}
+
+
+h1 {
+   text-align: center;
+
+   text-decoration: underline;
+}
+
+
+h2 {
+   font-size: oblique;
+
+
+}
+
+
+h3 {
+    font-size: oblique;
+
+}
+
+h4 {
+    font-size: oblique;
+
+}
+
+
+P {
+    font-size: oblique;
+    font-size: bold;
+
+
+}
+
+
+ul {
+    font-size: oblique;
+    font-size: bold;
+
+}
+
+
+ol {
+    font-size: oblique;
+    font-size: bold;
+}
+
+
+table {
+    font-size: oblique;
+    font-size:bold;
+}
+
+
+h2, h3, h4 {
+    display: inline;
+}
+
+
+
+img {
+    margin-left: 690px;
+    border: 5px black solid;
+}
+
+
+
+a {
+    text-decoration-line: underline;
+}
